@@ -1,12 +1,12 @@
 [
     {
-    "B_Name": "Pits of Joy",
-    "P_Name": "Organic deodorant",
-    "Short_Description": "A unique formulation of certified organic ingredients, that effectively provides long-lasting prevention against odour.",
-    "Price": "$14.40-$16.00",
-    "Ingridients": ["Arrowroot","Flour","Patchouli","Shea Butter"],
-    "P_Image": "https://amishofficial.github.io/jsonapitest/PoJ.png",
-    "Certifications": "https://amishofficial.github.io/jsonapitest/VeganCertified.png",
+    "B_Name": "The Ordinary",
+    "P_Name": "Hyaluronic Acid 2% + B5",
+    "Short_Description": "The molecular size of HA determines its depth of delivery in the skin. This formulation combines low-, medium- and high-molecular weight HA, as well as a next-generation HA crosspolymer at a combined concentration of 2% for multi-depth hydration.",
+    "Price": "$12.90",
+    "Ingridients": ["Sodium Hyaluronate Crosspolymer", "Panthenol", "Ahnfeltia Concinna Extract", "Glycerin"],
+    "P_Image": "https://rookdigitaldev.github.io/API-Rook/theOrdinary.png",
+    "Certifications": "https://rookdigitaldev.github.io/API-Rook/VeganCertified.png",
     "Packaging": "This product is packaged using recycled glass and a tin lid"         
     }
 ]
