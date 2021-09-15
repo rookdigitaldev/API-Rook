@@ -4,9 +4,9 @@
     "P_Name": "Organic deodorant Fragrance Free",
     "Short_Description": "A unique formulation of certified organic ingredients, that effectively provides long-lasting prevention against odour.",
     "Price": "$14.40-$16.00",
-    "Ingridients": ["Arrowroot","Flour","Patchouli","Shea Butter"],
+    "Ingridients": "Arrowroot, Flour, Patchouli, Shea Butter",
     "P_Image": "https://amishofficial.github.io/jsonapitest/PoJ_White.png",
-    "Certifications": "https://amishofficial.github.io/jsonapitest/VeganCertified.png",
+    "Certifications": ["https://amishofficial.github.io/jsonapitest/VeganCertified.png", "https://rookdigitaldev.github.io/API-Rook/ChooseCrueltyFree.png"],
     "Packaging": "This product is packaged using recycled glass and a tin lid"         
     }
 ]
