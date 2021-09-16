@@ -6,7 +6,7 @@
     "Price": "$12.90",
     "Ingridients": "Sodium Hyaluronate Crosspolymer, Panthenol, Ahnfeltia Concinna Extract, Glycerin",
     "P_Image": "https://rookdigitaldev.github.io/API-Rook/theOrdinary.png",
-    "Certifications": "https://rookdigitaldev.github.io/API-Rook/VeganCertified.png",
+    "Certifications": ["https://amishofficial.github.io/jsonapitest/VeganCertified.png", "https://rookdigitaldev.github.io/API-Rook/ChooseCrueltyFree.png"],
     "Packaging": "This product is packaged using recycled glass and a tin lid"         
     }
 ]
