@@ -1,5 +1,5 @@
 [
-{
+    {  
     "Name": "Sally Hiller",
     "Brand name": "Pits of Joy",
     "product name": "Pits of Joy - fragrance free",
@@ -16,4 +16,5 @@
     "image": "PoJ_FF.png (https://dl.airtable.com/.attachments/478ab0da2d185e64b72d838eec499369/842605c7/PoJ_FF.png),PoJ_Trio.png (https://dl.airtable.com/.attachments/d328542ebdd7923597126194b622dce1/f218a5ab/PoJ_Trio.png)",
     "additional info": "Handmade in small batches, in Melbourne.",
     "sample": "checked"
-}]
+    }
+]
